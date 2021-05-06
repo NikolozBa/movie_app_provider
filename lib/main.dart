@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movie_app/screens/add_new_movie_scren.dart';
+import 'package:movie_app/screens/add_new_movie_screen.dart';
 import 'package:movie_app/screens/edit_movie_screen.dart';
 import 'package:movie_app/screens/home_screen.dart';
 import 'package:movie_app/screens/movie_details_screen.dart';

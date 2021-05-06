@@ -3,7 +3,7 @@ import 'package:movie_app/data/models/data_model.dart';
 import 'package:movie_app/widgets/main_list_item.dart';
 import 'package:provider/provider.dart';
 
-import 'add_new_movie_scren.dart';
+import 'add_new_movie_screen.dart';
 import 'edit_movie_screen.dart';
 import 'movie_details_screen.dart';
 
